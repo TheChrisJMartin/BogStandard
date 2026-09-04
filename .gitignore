@@ -1,0 +1,12 @@
+/build/
+/out/
+/target/
+*.class
+*.war
+.idea/
+*.iml
+.DS_Store
+uploads/
+local.setenv.sh
+*~
+.env

@@ -1,0 +1,7 @@
+Build bogstandard.war with javac + jar only. Twin of build.sh.
+
+Requires SERVLET_API at compile time. PostgreSQL JDBC is NOT bundled.
+
+Usage:
+  ./build.sh
+  VERSION=0.12.1 SERVLET_API=/opt/tomcat/lib/servlet-api.jar ./build.sh

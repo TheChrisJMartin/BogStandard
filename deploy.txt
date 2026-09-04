@@ -1,0 +1,5 @@
+Deploy bogstandard.war to Tomcat. Twin of deploy.sh.
+
+Always delete webapps/bogstandard before copying the new WAR.
+
+  CATALINA_HOME=/opt/tomcat ./deploy.sh
