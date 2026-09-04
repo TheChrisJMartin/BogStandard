@@ -1,0 +1,13 @@
+{
+  "name": "Bog Standard",
+  "short_name": "Bog Standard",
+  "description": "Find, rate and review public-access toilets.",
+  "start_url": ".",
+  "scope": ".",
+  "display": "standalone",
+  "background_color": "#f4f1ea",
+  "theme_color": "#2f4a3c",
+  "icons": [
+    { "src": "static/icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
