@@ -1,0 +1,4 @@
+Promote a member to admin. Twin of promote-admin.sh.
+
+Usage:
+  PGDATABASE=bogstandard ./promote-admin.sh you@example.com
